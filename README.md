@@ -19,7 +19,7 @@ CompTIA A+ | CompTIA Network+ | CompTIA Security+ | CCNA (in progress) | Hack Th
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[youtube]: https://www.youtube.com/channel/UCi-wKNnJ1oCiuMkj2GT2NCw
+[youtube]: https://youtube.com/@peepsecops?si=4WRlS2DLoUTPaT8x
 [linkedin]: https://linkedin.com/in/geoffreyawinyo
 
 <!--
