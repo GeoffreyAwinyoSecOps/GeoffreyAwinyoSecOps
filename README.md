@@ -11,7 +11,7 @@ CompTIA A+ | CompTIA Network+ | CompTIA Security+ | CCNA (in progress) | Hack Th
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [My Cybersecurity Journey - Coming Soon...](https://www.youtube.com/)
+- [My Cybersecurity Journey](https://youtube.com/@peepsecops?si=4WRlS2DLoUTPaT8x)
 
 <h2> 🤳 Connect with me:</h2>
 
