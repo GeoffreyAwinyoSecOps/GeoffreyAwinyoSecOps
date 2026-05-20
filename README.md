@@ -7,7 +7,7 @@
 
 <h2>👨‍💻 Certifications:</h2>
 
-CompTIA A+ | CompTIA Network+ | CompTIA Security+ | CCNA (in progress) | Hack The Box SOC Analyst path (80% complete)
+CompTIA A+ | CompTIA Network+ | CompTIA Security+ | Hack The Box SOC Analyst path (80% complete) | CCNA (in progress) 
 
 <h2>📺 Popular YouTube Videos</h2>
 
