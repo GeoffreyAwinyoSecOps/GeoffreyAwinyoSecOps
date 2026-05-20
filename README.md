@@ -7,7 +7,7 @@
 
 <h2>👨‍💻 Certifications:</h2>
 
-CompTIA A+ | CompTIA Network+ | CompTIA Security+ | CCNA (in progress) | Hack The Box SOC Analyst path (40% complete)
+CompTIA A+ | CompTIA Network+ | CompTIA Security+ | CCNA (in progress) | Hack The Box SOC Analyst path (80% complete)
 
 <h2>📺 Popular YouTube Videos</h2>
 
@@ -23,10 +23,6 @@ CompTIA A+ | CompTIA Network+ | CompTIA Security+ | CCNA (in progress) | Hack Th
 [linkedin]: https://linkedin.com/in/geoffreyawinyo
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
