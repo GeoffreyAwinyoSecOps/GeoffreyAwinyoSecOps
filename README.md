@@ -4,6 +4,8 @@
 
 - <b>Configure a SIEM in Azure</b>
   - [SIEMLab](https://github.com/GeoffreyAwinyoSecOps/SIEMLab)
+- <b>Threat_intelligence-Reports</b>
+  - [Threat-Intelligence-Reports](https://github.com/GeoffreyAwinyoSecOps/threat-intelligence-reports)
 
 <h2>👨‍💻 Certifications:</h2>
 
