@@ -26,5 +26,4 @@ Cybersecurity Analyst | SOC & Detection Engineering | New York, NY
 
 ## Connect with me
 
-[![YouTube](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg)](https://youtube.com/@peepsecops)
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/in/geoffreyawinyo)
+[YouTube - PeepSecOps](https://youtube.com/@peepsecops) | [LinkedIn](https://linkedin.com/in/geoffreyawinyo)
