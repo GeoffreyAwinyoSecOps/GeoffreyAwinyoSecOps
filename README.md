@@ -1,36 +1,30 @@
-<h1>Hi, I'm Geoffrey Awinyo! <br/><a href="https://www.linkedin.com/in/geoffreyawinyo/">Cybersecurity Professional</a></h1>
+# Hi, I'm Geoffrey Awinyo!
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+Cybersecurity Analyst | SOC & Detection Engineering | New York, NY
 
-- <b>Configure a SIEM in Azure</b>
-  - [SIEMLab](https://github.com/GeoffreyAwinyoSecOps/SIEMLab)
-- <b>Threat_intelligence-Reports</b>
-  - [Threat-Intelligence-Reports](https://github.com/GeoffreyAwinyoSecOps/threat-intelligence-reports)
+---
 
-<h2>👨‍💻 Certifications:</h2>
+## Cybersecurity Projects
 
-CompTIA A+ | CompTIA Network+ | CompTIA Security+ | Hack The Box CDSA - SOC Analyst path (80% complete) | CCNA (in progress) 
+| Project | Description | Tools |
+|---|---|---|
+| [Azure SIEM Lab](https://github.com/GeoffreyAwinyoSecOps/SIEMLab) | Built a cloud SIEM using Microsoft Sentinel to ingest logs, write KQL detection rules, and visualize attacker geolocation | Azure, Microsoft Sentinel, KQL |
+| [Threat Intelligence Reports](https://github.com/GeoffreyAwinyoSecOps/threat-intelligence-reports) | CTI reports analyzing adversary tradecraft with MITRE ATT&CK mapping and EQL detection rules | EQL, MITRE ATT&CK |
+| [Detection Rules](https://github.com/GeoffreyAwinyoSecOps/detection-rules) | Extended Elastic detection rules with custom additions | Elastic SIEM, EQL |
 
-<h2>📺 Popular YouTube Videos</h2>
+---
 
-- [My Cybersecurity Channel](https://youtube.com/@peepsecops?si=4WRlS2DLoUTPaT8x)
+## Certifications
 
-<h2> 🤳 Connect with me:</h2>
+- CompTIA A+
+- CompTIA Network+
+- CompTIA Security+
+- HTB Certified Defensive Security Analyst - SOC Analyst Path (in progress)
+- CCNA (in progress)
 
- - [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
- [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+---
 
+## Connect with me
 
-[youtube]: https://youtube.com/@peepsecops?si=4WRlS2DLoUTPaT8x
-[linkedin]: https://linkedin.com/in/geoffreyawinyo
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![YouTube](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg)](https://youtube.com/@peepsecops)
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/in/geoffreyawinyo)
