@@ -8,7 +8,7 @@ Cybersecurity Analyst | SOC & Detection Engineering | New York, NY
 
 | Project | Description | Tools |
 |---|---|---|
-| [Azure SIEM Lab](https://github.com/GeoffreyAwinyoSecOps/SIEMLab) | Built a cloud SIEM using Microsoft Sentinel to ingest logs, write KQL detection rules, and visualize attacker geolocation | Azure, Microsoft Sentinel, KQL |
+| [Azure SIEM Lab](https://github.com/GeoffreyAwinyoSecOps/SIEMLab) | Built a cloud SIEM using Microsoft Sentinel to ingest logs, write KQL detection rules, and visualize attacker geolocation | Entra ID, Microsoft Sentinel, KQL |
 | [Threat Intelligence Reports](https://github.com/GeoffreyAwinyoSecOps/threat-intelligence-reports) | CTI reports analyzing adversary tradecraft with MITRE ATT&CK mapping and EQL detection rules | EQL, MITRE ATT&CK |
 | [Detection Rules](https://github.com/GeoffreyAwinyoSecOps/detection-rules) | Extended Elastic detection rules with custom additions | Elastic SIEM, EQL |
 
