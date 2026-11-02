@@ -19,7 +19,7 @@ Cybersecurity Analyst | SOC & Detection Engineering | New York, NY
 - CompTIA A+
 - CompTIA Network+
 - CompTIA Security+
-- HTB Certified Defensive Security Analyst - SOC Analyst Path (in progress)
+- HTB Certified Defensive Security Analyst
 - CCNA (in progress)
 
 ---
